@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+verify admin
+get all categories
+add category
+new product page
+save product
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -2,10 +2,10 @@
 
 A new Flutter project.
 
-verify admin
-get all categories
-add category
-new product page
+verify admin_
+get all categories_
+add category_
+new product page_
 save product
 
 

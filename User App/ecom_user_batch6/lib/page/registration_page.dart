@@ -32,7 +32,8 @@ class _RegistrationPageState extends State<RegistrationPage> {
 
   @override
   void didChangeDependencies() {
-    phoneController.text = ModalRoute.of(context)!.settings.arguments as String;
+    final value = ModalRoute.of(context)!.settings.arguments;
+    phoneController.text =  value == null ? '' : value.toString();
     super.didChangeDependencies();
   }
 

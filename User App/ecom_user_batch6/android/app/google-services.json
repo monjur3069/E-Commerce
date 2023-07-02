@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "928131424729-jejl95i1adt9pvl67e4lms0s2nuqf2j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom_admin_batch06",
+            "certificate_hash": "af169ebbe1162d2968f6110052734c8f50a3bb87"
+          }
+        },
+        {
           "client_id": "928131424729-l5h5dqacc46ovf6has13p34c37shpp5r.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -56,6 +64,14 @@
           "android_info": {
             "package_name": "com.example.ecom_user_batch6",
             "certificate_hash": "d91ed5b1d795fa6dd2a0cdf20bc7d93c115dfd05"
+          }
+        },
+        {
+          "client_id": "928131424729-caksai4o19qo3tt3c835clurg84d8gl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom_user_batch6",
+            "certificate_hash": "af169ebbe1162d2968f6110052734c8f50a3bb87"
           }
         },
         {

@@ -1,3 +1,4 @@
+import 'package:ecom_user_batch6/page/otp_verification_page.dart';
 import 'package:ecom_user_batch6/providers/cart_provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
@@ -65,6 +66,7 @@ class MyApp extends StatelessWidget {
         ProductDetailsPage.routeName: (_) => ProductDetailsPage(),
         OrderPage.routeName: (_) => const OrderPage(),
         PhoneVerificationPage.routeName: (_) => PhoneVerificationPage(),
+        OTPVerificationPage.routeName: (_) => OTPVerificationPage(),
         RegistrationPage.routeName: (_) => RegistrationPage(),
         CartPage.routeName: (_) => CartPage(),
         UserAddressPage.routeName: (_) => UserAddressPage(),

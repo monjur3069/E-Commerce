@@ -4,6 +4,7 @@ import 'package:ecom_user_batch6/providers/cart_provider.dart';
 import 'package:ecom_user_batch6/providers/order_provider.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:provider/provider.dart';
 
 import '../providers/product_provider.dart';
@@ -28,7 +29,7 @@ class _ProductPageState extends State<ProductPage> {
 
   @override
   void initState() {
-
+    EasyLoading.dismiss();
     super.initState();
   }
 
